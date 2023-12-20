@@ -19,6 +19,7 @@ Here's an example of how to use it:
 my_account = BankAccount("Miguel Ángel")
 my_account.show_balance()
 my_account.deposit(200)
+my_account.withdraw(50)
 ```
 
 # Sistema de Gestión de Cuentas Bancarias
@@ -42,4 +43,5 @@ Aquí tienes un ejemplo de cómo usarlo:
 my_account = BankAccount("Miguel Ángel")
 my_account.show_balance()
 my_account.deposit(200)
+my_account.withdraw(50)
 ```
