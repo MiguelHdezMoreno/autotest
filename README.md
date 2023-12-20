@@ -15,11 +15,11 @@ The `BankAccount` class in `bankaccount.py` represents a bank account. You can c
 
 Here's an example of how to use it:
 
-\\\```python
+```python
 my_account = BankAccount("Miguel Ángel")
 my_account.show_balance()
 my_account.deposit(200)
-\\\```
+```
 
 # Sistema de Gestión de Cuentas Bancarias
 
@@ -38,8 +38,8 @@ La clase "BankAccount" en "bankaccount.py" representa una cuenta bancaria. Puede
 
 Aquí tienes un ejemplo de cómo usarlo:
 
-\\\```python
+```python
 my_account = BankAccount("Miguel Ángel")
 my_account.show_balance()
 my_account.deposit(200)
-\\\```
+```
