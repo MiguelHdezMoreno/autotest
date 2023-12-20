@@ -35,7 +35,7 @@ Este es un proyecto simple en Python que simula un sistema de gestión de cuenta
 
 ## Uso
 
-La clase "BankAccount" en "bankaccount.py" representa una cuenta bancaria. Puedes crear una nueva cuenta, mostrar el saldo, depositar dinero y retirar dinero.
+La clase `BankAccount` en `bankaccount.py` representa una cuenta bancaria. Puedes crear una nueva cuenta, mostrar el saldo, depositar dinero y retirar dinero.
 
 Aquí tienes un ejemplo de cómo usarlo:
 
