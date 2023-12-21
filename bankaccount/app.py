@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from bankaccount import BankAccount
+from bankaccount.bankaccount import BankAccount
 import logging
 
 app = Flask(__name__)
