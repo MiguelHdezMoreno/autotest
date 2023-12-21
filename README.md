@@ -20,7 +20,7 @@ The repository is organized as follows:
 
 ¡Bienvenido a mi Repositorio de Pruebas! Aquí es donde trabajo en varias pruebas para mejorar mis habilidades en Python.
 
-## Empezando
+## Para empezar
 
 Para comenzar, asegúrate de tener Python instalado en tu máquina. Puedes descargarlo desde el sitio web oficial de Python.
 
