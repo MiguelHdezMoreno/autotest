@@ -11,9 +11,10 @@ To get started, make sure you have Python installed on your machine. You can dow
 The repository is organized as follows:
 
 - `tests/`: This directory contains all the test files.
+- `bankaccount/`: This directory contains a simple bank account simulation. It includes `app.py` and `bankaccount.py`.
+- `rps/`: This directory contains a Rock, Paper, Scissors game implemented in `rps.py`.
 - `README.md`: This file provides an overview of the repository.
-
-
+- `bankaccount.log`: This file contains the logs for the bank account simulation.
 
 # Repositorio de Pruebas
 
@@ -28,4 +29,7 @@ Para comenzar, asegúrate de tener Python instalado en tu máquina. Puedes desca
 El repositorio está organizado de la siguiente manera:
 
 - `tests/`: Este directorio contiene todos los archivos de prueba.
+- `bankaccount/`: Este directorio contiene una simulación simple de una cuenta bancaria. Incluye `app.py` y `bankaccount.py`.
+- `rps/`: Este directorio contiene un juego de Piedra, Papel o Tijera implementado en `rps.py`.
 - `README.md`: Este archivo proporciona una descripción general del repositorio.
+- `bankaccount.log`: Este archivo contiene los registros de la simulación de la cuenta bancaria.
